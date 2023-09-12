@@ -31,7 +31,9 @@ social: false  # includes social icons at the bottom of the page
 disable_badges: true
 ---
 
-Na Li is ....
+I am a postdoc researcher at the [Faculty of Electrical Engineering, Mathematics and Computer Science](https://www.tudelft.nl/en/eemcs), working with [Simon Tindemans](https://www.tudelft.nl/staff/s.h.tindemans/?cHash=bbd0716f167aafde79f6f0ec465da7c3) and [Kenneth Bruninx](https://www.kennethbruninx.com/home).
+
+My research focuses on the modeling of energy system, electricity market, tariff design, energy system analysis.
 
 <!-- Ye Ji is a fourth-year Ph.D. candidate at [Dalian University of Technology](http://en.dlut.edu.cn/), where he conducts his research under the guidance of Prof. [Chungang Zhu](http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm). Specializing in **Computational Science and Engineering (CSE)**, Ye's work bridges the disciplines of applied mathematics, computer science, and engineering to address intricate, real-world challenges. His research is particularly concentrated on **IsoGeometric Analysis (IGA)**, with a focus on advancing the theoretical underpinnings and developing efficient methodologies for **spline-based analysis-suitable parameterization**. This specialized area is a pivotal component of IGA that has significant ramifications for downstream simulation analysis.
 
@@ -41,8 +43,8 @@ Currently, Ye is conducting a two-year visiting Ph.D. project at the [Numerical 
 
 News
 ------
-
-- **[09/2023]**: I will give an oral presentation in [**13th International Conference on Compressors and their Systems**](https://citycompressorsconference.london), London, United Kingdom, on 11 September 2023. 
+No news is good news :)
+<!-- - **[09/2023]**: I will give an oral presentation in [**13th International Conference on Compressors and their Systems**](https://citycompressorsconference.london), London, United Kingdom, on 11 September 2023.  -->
 
 <!-- - **[09/2023]**: I will give an oral presentation in [**RICAM Workshop on Topology Optimization and Isogeometric Analysis**](https://www.oeaw.ac.at/ricam/news-events/workshops/topology-optimization-and-isogeometric-analysis), Linz, Austria, on 11-13 September 2023. 
 

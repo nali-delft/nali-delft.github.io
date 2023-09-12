@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Na Li"
   avatar           : "profile.png"
-  bio              : "Electricity Market & Tariff Design & Energy Transition"
+  bio              : "I am extremely passionate about two things in life: technology and ideas."
   location         : "Delft, Netherlands"
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_RViq90AAAAJ&hl=en"
   email            : "n.li-2@tudelft.nl"
   researchgate     : ”https://www.researchgate.net/profile/Na-Li-107"
