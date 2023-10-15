@@ -1,12 +1,16 @@
 ---
 layout: archive
 title: "Graduated MSc Students"
-permalink: /teaching/2014-spring-teaching-1
-description: supervision
-nav: true
-nav_order: 1
+permalink: /teaching/
 author_profile: true
 ---
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 
 **The financial decentralized energy systems on households, a case study: The Green Village**
@@ -30,6 +34,3 @@ Multi-Objective Optimization of a Grid-Connected PV-Battery-Electrolyzer Fuel Ce
 
 Riccardo, Maselli
 [[**Full Document**]](https://repository.tudelft.nl/islandora/object/uuid%3Aeeb957a4-a37c-4bff-9210-7a5907191cad?collection=education)
-
-
-
