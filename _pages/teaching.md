@@ -2,6 +2,9 @@
 layout: archive
 title: "Graduated MSc Students"
 permalink: /teaching/
+description: supervision
+nav: true
+nav_order: 1
 author_profile: true
 ---
 
@@ -10,7 +13,6 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
 
 
 **The financial decentralized energy systems on households, a case study: The Green Village**
