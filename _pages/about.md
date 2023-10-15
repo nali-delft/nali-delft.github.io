@@ -38,6 +38,7 @@ My research focuses on modeling and simulation of energy systems, energy market,
 In addition to my research, I also contribute to the academic community by serving as a reviewer for Renewable and Sustainable Energy Reviews，Applied Energy, IEEE Transactions on Power Systems, Sustainable Energy, Grids and Networks, Frontiers in Energy Research, and IET Generation, Transmission & Distribution.
 
 I am open for discussions and collaboration, feel free to reach out to me.
+
 <!-- Ye Ji is a fourth-year Ph.D. candidate at [Dalian University of Technology](http://en.dlut.edu.cn/), where he conducts his research under the guidance of Prof. [Chungang Zhu](http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm). Specializing in **Computational Science and Engineering (CSE)**, Ye's work bridges the disciplines of applied mathematics, computer science, and engineering to address intricate, real-world challenges. His research is particularly concentrated on **IsoGeometric Analysis (IGA)**, with a focus on advancing the theoretical underpinnings and developing efficient methodologies for **spline-based analysis-suitable parameterization**. This specialized area is a pivotal component of IGA that has significant ramifications for downstream simulation analysis.
 
 In addition to his research, Ye contributes to the academic community by serving as a reviewer for Mathematical Reviews. He is also a co-developer of [Geometry + Simulation Modules (G+Smo)](https://gismo.github.io/), a prominent open-source C++ software platform for isogeometric analysis. 
