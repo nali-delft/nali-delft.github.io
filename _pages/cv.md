@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+My [CV](../files/CV.pdf) is available for a more detailed overview. 
+
+
 Education
 ======
 * Ph.D in Sustainable Energy Technologies, Delft University of University, 2017-2022
 * M.S. in Engineering Science, Jilin University, 2014-2017
 * B.S. in Engineering Science, Jilin University, 2010-2014
-
-
 
 Work experience
 ======

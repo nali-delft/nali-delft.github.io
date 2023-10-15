@@ -19,7 +19,7 @@ author_profile: true
 
 **N. Li**, and Ö. Okur, 2023. Economic analysis of energy communities: Investment options and cost allocation. Applied Energy, 336, p.120706. [[**Journal link**]](https://www.sciencedirect.com/science/article/pii/S0306261923000703) 
   <!-- <details> -->
-    <!-- <summary><strong>Abstract</strong></summary> -->
+ <!-- <summary><strong>Abstract</strong></summary> -->
 <!-- Energy communities play an important role in the energy transition to future clean and sustainable energy. The economic feasibility of an energy community is largely affected by its investment options: either a third party or households themselves can invest in distributed energy resources. Another common problem for energy communities is cost allocation among local community members to ensure cost recovery. For these reasons, in this paper, an economic feasibility analysis for energy communities with two investment options is conducted: third party investment and self-investment, while also taking into account various cost allocation methods. An optimization model is developed to solve the optimal operation of the energy community with both investment options. The results indicate that it is economically feasible for a third party to invest in an energy community with the right energy prices and payback time. In this case, the third party makes the highest profits when the payback time is 15 years, which is around 50% percent of its total investment cost. In addition, it is possible for the third party to have multiple cost allocation methods within the same energy community. On the other hand, local community members benefit the most from a joint investment, despite the high initial investment costs. The energy costs of each household are largely affected by the payback time and cost allocation methods. These variations are the largest when payback time is 25 years, which is also the system lifetime. Overall, this study provides insights both for third parties and households to make decisions on investment options and cost allocation. -->
   <!-- </details> --> 
 
@@ -51,8 +51,13 @@ author_profile: true
 
 
 ## Conference papers
+### 2023
+   **N. Li**, K.Bruninx, S.
+   Na Li, Kenneth Bruninx$^{2}$, S.H. Tindemans, 2023 October. Residential demand-side flexibility provision under a multi-level segmented tariff. In 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe) (Accept)
+ <!-- [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/) -->
+
 ### 2020
-   **Li, N.**, R.A. Hakvoort, and Z. Lukszo, 2020, October. Segmented energy tariff design for flattening load demand profile. In 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe) (pp. 849-853). IEEE. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/)
+   **N. Li.**, R.A. Hakvoort, and Z. Lukszo, 2020, October. Segmented energy tariff design for flattening load demand profile. In 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe) (pp. 849-853). IEEE. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/)
 
 
 ### PhD Dissertation
