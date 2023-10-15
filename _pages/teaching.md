@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Graduated MSc Students"
-# permalink: /teaching/
+permalink: /teaching/
 description: supervision
 nav: true
 nav_order: 1

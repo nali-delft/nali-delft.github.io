@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-**The financial decentralized energy systems on households, a case study: The Green Village**
+<!-- **The financial decentralized energy systems on households, a case study: The Green Village** -->
 
 Regine Wagenaar
 
