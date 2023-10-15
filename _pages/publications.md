@@ -52,7 +52,7 @@ author_profile: true
 
 ## Conference papers
 ### 2023
-   **N. Li**, K.Bruninx, K. Bruninx, S.H. Tindemans, 2023 October. Residential demand-side flexibility provision under a multi-level segmented tariff. In 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe) (Accept)
+   **N. Li**, K.Bruninx, K. Bruninx, S.H. Tindemans, 2023 October. Residential demand-side flexibility provision under a multi-level segmented tariff. In 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe) (Accepted)
  <!-- [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/) -->
 
 ### 2020
