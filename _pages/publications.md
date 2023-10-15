@@ -34,7 +34,7 @@ author_profile: true
     <!-- <details> -->
     <!-- <summary><strong>Abstract</strong></summary> -->
   <!-- Integrated community energy systems (ICESs) are a modern development of local energy systems by integrating distributed energy resources and local communities. Cost allocation is one of the key issues affecting the success of ICESs. Costs should be allocated to those who cause them, and benefits to those who make the investments. A well-designed cost allocation approach will therefore contribute to a successful implementation and sustainable development of ICESs. This paper presents a general framework for designing cost allocation schemes in ICESs. Various cost allocation methods are proposed to compute the energy bills for local community members in an ICES. In addition, the cost reflectiveness of different cost allocation methods has been computed based on a case study of an ICES to gain insights into how well the costs are allocated. Next to this, the same is also done for the cost predictability to investigate how the energy costs would change in the long term. The results showed that methods with a single energy charging component perform the best in terms of the two criteria. Our assessment can facilitate local community members in selecting a method that satisfies their requirements. Overall, this research contributes to a successful implementation of cost allocation in an ICES. -->
-  <!-- </details> --> -->
+  <!-- </details> -->
 
 ### 2021
    **Li, N.**, R.A. Hakvoort, and Z. Lukszo, 2021. Cost allocation in integrated community energy systems-A review. Renewable and Sustainable Energy Reviews, 144, p.111001. [[**Journal link**]](https://www.sciencedirect.com/science/article/pii/S1364032121002914) 
