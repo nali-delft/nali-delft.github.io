@@ -30,20 +30,20 @@ author_profile: true
   <!-- </details> --> 
 
 ### 2022
-  **Li, N.**, R.A. Hakvoort, and Z. Lukszo, 2022. Cost allocation in integrated community energy systems—Performance assessment. Applied Energy, 307, p.118155. [[**Journal link**]](https://www.sciencedirect.com/science/article/pii/S030626192101429X) 
+  **N. Li**, R.A. Hakvoort, and Z. Lukszo, 2022. Cost allocation in integrated community energy systems—Performance assessment. Applied Energy, 307, p.118155. [[**Journal link**]](https://www.sciencedirect.com/science/article/pii/S030626192101429X) 
     <!-- <details> -->
     <!-- <summary><strong>Abstract</strong></summary> -->
   <!-- Integrated community energy systems (ICESs) are a modern development of local energy systems by integrating distributed energy resources and local communities. Cost allocation is one of the key issues affecting the success of ICESs. Costs should be allocated to those who cause them, and benefits to those who make the investments. A well-designed cost allocation approach will therefore contribute to a successful implementation and sustainable development of ICESs. This paper presents a general framework for designing cost allocation schemes in ICESs. Various cost allocation methods are proposed to compute the energy bills for local community members in an ICES. In addition, the cost reflectiveness of different cost allocation methods has been computed based on a case study of an ICES to gain insights into how well the costs are allocated. Next to this, the same is also done for the cost predictability to investigate how the energy costs would change in the long term. The results showed that methods with a single energy charging component perform the best in terms of the two criteria. Our assessment can facilitate local community members in selecting a method that satisfies their requirements. Overall, this research contributes to a successful implementation of cost allocation in an ICES. -->
   <!-- </details> -->
 
 ### 2021
-   **Li, N.**, R.A. Hakvoort, and Z. Lukszo, 2021. Cost allocation in integrated community energy systems-A review. Renewable and Sustainable Energy Reviews, 144, p.111001. [[**Journal link**]](https://www.sciencedirect.com/science/article/pii/S1364032121002914) 
+   **N. Li**, R.A. Hakvoort, and Z. Lukszo, 2021. Cost allocation in integrated community energy systems-A review. Renewable and Sustainable Energy Reviews, 144, p.111001. [[**Journal link**]](https://www.sciencedirect.com/science/article/pii/S1364032121002914) 
     <!-- <details> -->
     <!-- <summary><strong>Abstract</strong></summary> -->
   <!-- Integrated community energy systems (ICESs) emerged in the reform of local energy systems during the energy transition. Cost allocation within an ICES is one of the key issues determining the success of ICESs. The costs should be allocated fairly among the members of a local energy community. However, not much research has been directed towards cost allocation in local energy systems. In this paper, firstly, we compare ICESs with large power systems in terms of their physical and cost structure. Secondly, learning from experience with electricity tariff design, we derive cost allocation approaches for ICESs. To this end, we summarize tariff design objectives, cost allocation procedures and the underlying regulatory principles for major tariffication approaches and discuss how these concepts may be applied to cost allocation in ICESs. Discussions on the lessons learned so far and application issues in ICESs are included in this paper. This review paper paves the way for application of fair cost allocation in ICESs by providing a systemic framework. -->
   <!-- </details> --> 
 
-   **Li, N.**, R.A. Hakvoort, and Z. Lukszo, 2021. Cost allocation in integrated community energy systems—social acceptance. Sustainability, 13(17), p.9951. [[**Journal link**]](https://www.mdpi.com/2071-1050/13/17/9951)
+   **N. Li**, R.A. Hakvoort, and Z. Lukszo, 2021. Cost allocation in integrated community energy systems—social acceptance. Sustainability, 13(17), p.9951. [[**Journal link**]](https://www.mdpi.com/2071-1050/13/17/9951)
     <!-- <details> -->
     <!-- <summary><strong>Abstract</strong></summary> -->
   <!-- Integrated community energy systems (ICESs) are a good representative of local energy systems by integrating local distributed energy resources and local communities. It is proposed that costs should be allocated in a socially acceptable manner since there is no regulation in ICESs. In this paper, social acceptance is conceptualized from the dimension of community acceptance considering procedural and distributive justice. A fair process increases the understanding and the acceptance of the cost allocation outcomes, and a fair outcome leads to the acceptance of the cost allocation procedure. This approach adopted the multi-criteria decision-making technique to evaluate social acceptance to select a cost allocation method that was socially acceptable to local community members. The results show that our approach is unique and useful when multiple decision-making groups have to decide together upon the cost allocation method. It is able to provide quantitative results and optimal decisions from a multi-group decision-making perspective. The methodology developed in this research can be applied to any local community energy system to select a cost allocation method. Furthermore, the obtained results can be used by decision-makers to support them in the decision-making process. Based on our approach, policy implications are also analyzed to support the success of cost allocation in ICESs. -->
@@ -54,10 +54,13 @@ author_profile: true
 ### 2023
    **N. Li**, K.Bruninx, K. Bruninx, S.H. Tindemans, 2023 October. Residential demand-side flexibility provision under a multi-level segmented tariff. 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE), Grenoble, France, 2023, pp. 1-5. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/10407675)
 
+
+   B. Fina, S. Yilmaz, F. Ettwein, **N. Li**, A. Werner. Typologies of energy community initiatives and their social implications.[[**Journal linke**]](https://nachhaltigwirtschaften.at/de/iea/publikationen/2023/iea-users-typologies-energy-communities.php)
+
 ### 2020
-   **N. Li.**, R.A. Hakvoort, and Z. Lukszo, 2020, October. Segmented energy tariff design for flattening load demand profile. 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), The Hague, Netherlands, 2020, pp. 849-853. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/)
+   **N. Li**, R.A. Hakvoort, and Z. Lukszo, 2020, October. Segmented energy tariff design for flattening load demand profile. 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), The Hague, Netherlands, 2020, pp. 849-853. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/)
 
 
 ### PhD Dissertation
 
-**N. Li.**, Cost Allocation in Integrated Community Energy Systems [[**Dissertation**]](https://repository.tudelft.nl/islandora/object/uuid%3A18fc05b9-fdf4-4655-ab27-d60ce92401e1)
+**N. Li**, Cost Allocation in Integrated Community Energy Systems [[**Dissertation**]](https://repository.tudelft.nl/islandora/object/uuid%3A18fc05b9-fdf4-4655-ab27-d60ce92401e1)
