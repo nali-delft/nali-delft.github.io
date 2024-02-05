@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_RViq90AAAAJ&hl=en"
   email            : "n.li-2@tudelft.nl"
-  researchgate     : ”https://www.researchgate.net/profile/Na-Li-107"
+  researchgate     : ”/profile/Na-Li-107"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  “nali-delft”
+  linkedin         : “in/nali-delft/”
   orcid            : "https://orcid.org/0000-0002-4898-186X"
   pinterest        :
   soundcloud       :
