@@ -41,9 +41,9 @@ I am open for discussions and collaboration, feel free to reach out to me.
 
 
 
-News
-------
-No news is good news :)
+<!-- News -->
+<!-- ------ -->
+<!-- No news is good news :) -->
 <!-- - **[09/2023]**: I will give an oral presentation in [**13th International Conference on Compressors and their Systems**](https://citycompressorsconference.london), London, United Kingdom, on 11 September 2023.  -->
 
 <!-- - **[09/2023]**: I will give an oral presentation in [**RICAM Workshop on Topology Optimization and Isogeometric Analysis**](https://www.oeaw.ac.at/ricam/news-events/workshops/topology-optimization-and-isogeometric-analysis), Linz, Austria, on 11-13 September 2023. 

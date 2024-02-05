@@ -52,11 +52,10 @@ author_profile: true
 
 ## Conference papers
 ### 2023
-   **N. Li**, K.Bruninx, K. Bruninx, S.H. Tindemans, 2023 October. Residential demand-side flexibility provision under a multi-level segmented tariff. In 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe) (Accepted)
- <!-- [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/) -->
+   **N. Li**, K.Bruninx, K. Bruninx, S.H. Tindemans, 2023 October. Residential demand-side flexibility provision under a multi-level segmented tariff. 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE), Grenoble, France, 2023, pp. 1-5. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/10407675)
 
 ### 2020
-   **N. Li.**, R.A. Hakvoort, and Z. Lukszo, 2020, October. Segmented energy tariff design for flattening load demand profile. In 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe) (pp. 849-853). IEEE. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/)
+   **N. Li.**, R.A. Hakvoort, and Z. Lukszo, 2020, October. Segmented energy tariff design for flattening load demand profile. 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), The Hague, Netherlands, 2020, pp. 849-853. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/)
 
 
 ### PhD Dissertation
