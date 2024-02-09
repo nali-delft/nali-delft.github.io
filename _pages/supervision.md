@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Graduated MSc Students"
+title: "Supervision"
 permalink: /supervision/
 description: supervision
 nav: true
@@ -54,4 +54,4 @@ author_profile: true
 ---
 
 
-\color{black}Supervision of SET MSc project: Gabriel Yousef, \textit{Community Storage Integration: A sustainable approach to overcoming net metering phase-out challenges in the Netherlands’ residential solar market}, Delft University of Technology (daily supervisor). (02.2023 - onwards)  
+<!-- \color{black}Supervision of SET MSc project: Gabriel Yousef, \textit{Community Storage Integration: A sustainable approach to overcoming net metering phase-out challenges in the Netherlands’ residential solar market}, Delft University of Technology (daily supervisor). (02.2023 - onwards)   -->
