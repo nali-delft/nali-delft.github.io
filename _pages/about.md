@@ -31,7 +31,6 @@ social: false  # includes social icons at the bottom of the page
 disable_badges: true
 ---
 
-
 I am a postdoc researcher at the [Faculty of Electrical Engineering, Mathematics and Computer Science](https://www.tudelft.nl/en/eemcs), working with [Dr. Simon Tindemans](https://www.tudelft.nl/staff/s.h.tindemans/?cHash=bbd0716f167aafde79f6f0ec465da7c3) and [Dr. ir. Kenneth Bruninx](https://www.kennethbruninx.com/home).
 
 I did my PhD at the [Faculty of Technology, Policy and Management, Delft University of Technology](https://www.tudelft.nl/en/tpm), under the supervision of [Prof. Zofia Lukszo](https://www.tudelft.nl/staff/z.lukszo/?cHash=b2f2fe575a6ebfc7bac4dd943fb565ce) and [Dr.ir. Rudi Hakvoort](https://www.tudelft.nl/staff/r.a.hakvoort/?cHash=637b43fcdbbf1d6f7cb4a40a6ae5a75f).
