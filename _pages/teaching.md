@@ -27,7 +27,7 @@ author_profile: true
 
   6 ECTS, taught in Matlab, Simulink
 
-  November, 2019 - January, 2019
+  November, 2023 - January, 2024
 
   [[**Course link**]](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=66111) 
 
