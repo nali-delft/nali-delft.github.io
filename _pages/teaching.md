@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-- **Master Course at TU Delft: Energy System Optimisation(SET3060)**
+- **Master Course at TU Delft: Energy System Optimisation (SET3060)**
 
   Lab teaching, exam correction
 
@@ -21,7 +21,7 @@ author_profile: true
 
 ---
 
-- **Bachelor course at TU Delft: Project Design of Sustainable Energy Supply(ET3036TU)**
+- **Bachelor course at TU Delft: Project Design of Sustainable Energy Supply (ET3036TU)**
 
   Lab teaching, report and presentation examination
 
