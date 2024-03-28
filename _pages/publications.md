@@ -51,14 +51,17 @@ author_profile: true
 
 
 ## Conference papers
+### 2024
+  N.K. Panda, **N. Li**, S.H. Tindemans, 2024. Aggregate Peak EV Charging Demand: The Impact of Segmented Network Tariffs.[[**Conference link**]](https://arxiv.org/abs/2403.12215)
+
 ### 2023
-   **N. Li**, K.Bruninx, K. Bruninx, S.H. Tindemans, 2023 October. Residential demand-side flexibility provision under a multi-level segmented tariff. 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE), Grenoble, France, 2023, pp. 1-5. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/10407675)
+   **N. Li**, K.Bruninx, K. Bruninx, S.H. Tindemans, 2023 October. Residential demand-side flexibility provision under a multi-level segmented tariff. 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE), Grenoble, France, 2023, pp. 1-5. [[**Conference link**]](https://ieeexplore.ieee.org/abstract/document/10407675)
 
 
-   B. Fina, S. Yilmaz, F. Ettwein, **N. Li**, A. Werner. Typologies of energy community initiatives and their social implications.[[**Journal linke**]](https://nachhaltigwirtschaften.at/de/iea/publikationen/2023/iea-users-typologies-energy-communities.php)
+   B. Fina, S. Yilmaz, F. Ettwein, **N. Li**, A. Werner. Typologies of energy community initiatives and their social implications.[[**Conference link**]](https://nachhaltigwirtschaften.at/de/iea/publikationen/2023/iea-users-typologies-energy-communities.php)
 
 ### 2020
-   **N. Li**, R.A. Hakvoort, and Z. Lukszo, 2020, October. Segmented energy tariff design for flattening load demand profile. 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), The Hague, Netherlands, 2020, pp. 849-853. [[**Journal linke**]](https://ieeexplore.ieee.org/abstract/document/9248774/)
+   **N. Li**, R.A. Hakvoort, and Z. Lukszo, 2020, October. Segmented energy tariff design for flattening load demand profile. 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), The Hague, Netherlands, 2020, pp. 849-853. [[**Conference link**]](https://ieeexplore.ieee.org/abstract/document/9248774/)
 
 
 ### PhD Dissertation

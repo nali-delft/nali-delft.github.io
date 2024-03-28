@@ -8,11 +8,19 @@ nav_order: 1
 author_profile: true
 ---
 
+- **Optimizing Hybrid Energy Storage Systems: a case study at The Green Village**
+
+  Kenan Salković, Daily Supervisor and Graduation Committee, January, 2024 - now
+
+  <!-- [[**Full Document**]](https://repository.tudelft.nl/islandora/object/uuid%3Aa4cf15dc-b4db-41ad-96c2-5e2cef9d7d9f?collection=education) -->
+
+---
+
 - **The Potential of Community Energy Storage for Solving Grid Congestion and Improving Prosumer Profitability in the Netherlands’ Residential Solar Market**
 
   Gabriel Yousef, Daily Supervisor and Graduation Committee, February, 2023 - February, 2024
 
-  <!-- [[**Full Document**]](https://repository.tudelft.nl/islandora/object/uuid%3Aeeb957a4-a37c-4bff-9210-7a5907191cad?collection=education) -->
+  [[**Full Document**]](https://repository.tudelft.nl/islandora/object/uuid%3Aa4cf15dc-b4db-41ad-96c2-5e2cef9d7d9f?collection=education)
 
 ---
 
