@@ -26,7 +26,7 @@ author_profile: true
 
 - **Deployment strategy for mobile energy storage systems to alleviate low-voltage grid congestion**
 
- Rick Vijverberg, Daily Supervisor and Graduation Committee, 2025.02 - 2025.07, TU Delft
+  Rick Vijverberg, Daily Supervisor and Graduation Committee, 2025.02 - 2025.07, TU Delft
 
   [[**Full Document**]](https://repository.tudelft.nl/record/uuid:fc8897a2-aa66-4971-ad68-cf8b080bb736)
 
@@ -34,7 +34,7 @@ author_profile: true
 
 - **How to thrive without the grid? Aligning energy storage with renewables and industrial demand: A techno-economic analysis of local energy systems to electrify the Dutch chemical industry**
 
- Stan Renders, Daily Supervisor and Graduation Committee, 2025.02 - 2025.08, TU Delft
+  Stan Renders, Daily Supervisor and Graduation Committee, 2025.02 - 2025.08, TU Delft
 
   [[**Full Document**]](https://repository.tudelft.nl/record/uuid:d24151b4-31f0-489e-9be6-82065b10bdfd)
 
