@@ -31,7 +31,7 @@ social: false  # includes social icons at the bottom of the page
 disable_badges: true
 ---
 
-I am a postdoc researcher at the [Faculty of Electrical Engineering, Mathematics and Computer Science, Delft University of Technology](https://www.tudelft.nl/en/eemcs), working with [Dr. Simon Tindemans](https://www.tudelft.nl/staff/s.h.tindemans/?cHash=bbd0716f167aafde79f6f0ec465da7c3) and [Dr. ir. Kenneth Bruninx](https://www.kennethbruninx.com/home).
+<!-- I am a postdoc researcher at the [Faculty of Electrical Engineering, Mathematics and Computer Science, Delft University of Technology](https://www.tudelft.nl/en/eemcs), working with [Dr. Simon Tindemans](https://www.tudelft.nl/staff/s.h.tindemans/?cHash=bbd0716f167aafde79f6f0ec465da7c3) and [Dr. ir. Kenneth Bruninx](https://www.kennethbruninx.com/home).
 
 I did my PhD at the [Faculty of Technology, Policy and Management, Delft University of Technology](https://www.tudelft.nl/en/tpm), under the supervision of [Prof. Zofia Lukszo](https://www.tudelft.nl/staff/z.lukszo/?cHash=b2f2fe575a6ebfc7bac4dd943fb565ce) and [Dr.ir. Rudi Hakvoort](https://www.tudelft.nl/staff/r.a.hakvoort/?cHash=637b43fcdbbf1d6f7cb4a40a6ae5a75f).
 
@@ -39,8 +39,30 @@ My research focuses on modeling and simulation of energy systems, energy market,
 
 In addition to my research, I also contribute to the academic community by serving as a reviewer for Renewable and Sustainable Energy Reviews, Applied Energy, IEEE Transactions on Power Systems, Sustainable Energy, Grids and Networks, Frontiers in Energy Research, and IET Generation, Transmission & Distribution.
 
-I am open for discussions and collaboration, feel free to reach out to me.
+I am open for discussions and collaboration, feel free to reach out to me. -->
 
+I recently joined the Urban Energy Systems Laboratory at Empa as part of the Horizon Europe project [SOCIAREM](https://www.europa.eda.admin.ch/en/newnsb/5YhPKQ152wcSOfyicJtLv), where I collaborate with Dr. Binod Koirala. My research will broadly focus on renewable energy communities.
+
+Before joining Empa, I worked as an energy system modeller and business intelligence analyst in industry, focusing on electricity price forecasting, battery storage optimization, and strategic modelling for commercial energy applications. This experience allows me to bridge academic research with real-world market dynamics and practical decision-making.
+
+I completed my PhD at the [Faculty of Technology, Policy and Management, Delft University of Technology](https://www.tudelft.nl/en/tpm), supervised by Prof. Zofia Lukszo and Dr. Rudi Hakvoort. Afterward, I continued as a postdoctoral researcher at the Faculty of Electrical Engineering, Mathematics and Computer Science at TU Delft, working with Dr. Simon Tindemans and Dr. Kenneth Bruninx on demand-side flexibility modelling and electricity market design.
+
+My broader research interests include:
+
+* Energy system modelling and simulation
+
+* Electricity market design and tariff mechanisms
+
+* Renewable energy communities and social acceptance
+
+* Battery storage optimization and techno-economic assessment
+
+* Demand-side flexibility and sector coupling
+
+In addition to my research, I serve as a reviewer for Renewable and Sustainable Energy Reviews, Applied Energy, IEEE Transactions on Power Systems, Sustainable Energy, Grids and Networks, Frontiers in Energy Research, and IET Generation, Transmission & Distribution.
+
+I enjoy working at the intersection of modelling, markets, and emerging energy technologies, and I am always open to collaboration.
+Feel free to reach out!
 
 
 <!-- News -->

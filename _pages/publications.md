@@ -54,6 +54,9 @@ author_profile: true
 ### 2024
   N.K. Panda, **N. Li**, S.H. Tindemans, 2024. Aggregate Peak EV Charging Demand: The Impact of Segmented Network Tariffs.[[**Conference link**]](https://arxiv.org/abs/2403.12215)
 
+
+  **N. Li**, R. Maselli, H. Ziar, J. van der Weijden, Ö. Okur, 2024. Multi-Objective Optimization for a Grid-Connected Hydrogen Integrated Energy Community[[**Conference link**]](https://attend.ieee.org/isgt-2024/)
+
 ### 2023
    **N. Li**, K.Bruninx, K. Bruninx, S.H. Tindemans, 2023 October. Residential demand-side flexibility provision under a multi-level segmented tariff. 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE), Grenoble, France, 2023, pp. 1-5. [[**Conference link**]](https://ieeexplore.ieee.org/abstract/document/10407675)
 

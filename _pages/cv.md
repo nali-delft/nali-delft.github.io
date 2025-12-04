@@ -20,11 +20,16 @@ Education
 
 Work experience
 ======
-* 2022.09 - now: Postdoc research fellow
-  * Delft University of University
+* 2025.12 - now: Postdoc researcher
+  * Empa (Swiss Federal Laboratories for Materials Science and Technology), Switzerland
 
+* 2024.07 - 2025.07: Business Intelligence Analyst
+  * Ore Energy, the Netherlands
+
+* 2022.09 - 2024.05: Postdoc researcher
+  * Delft University of University, the Netherlands
 
 * 2021.10 - 2022.04: Researcher
-  * The Green Village, Delft University of University
+  * The Green Village, Delft University of University, the Netherlands
 
   
